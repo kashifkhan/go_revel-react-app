@@ -13,9 +13,9 @@
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
 
-devbox/bin/
-devbox/pkg/
-devbox/src/github.com/
-devbox/src/golang.org/
-devbox/src/gopkg.in/
+devbox/bin/*
+devbox/pkg/*
+devbox/src/github.com/*
+devbox/src/golang.org/*
+devbox/src/gopkg.in/*
 devbox/src/posts/conf/app.conf
